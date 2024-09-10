@@ -8,3 +8,5 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![](https://www.shutterstock.com/image-photo/lonely-green-oak-tree-field-600nw-707501539.jpg)
