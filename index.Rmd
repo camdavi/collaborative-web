@@ -9,4 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<<<<<<< HEAD
 ![](https://www.shutterstock.com/image-photo/lonely-green-oak-tree-field-600nw-707501539.jpg)
+
+**This is our website**
+>>>>>>> 9a1aea68ee393a846b79cf0a73721cb635911e51
